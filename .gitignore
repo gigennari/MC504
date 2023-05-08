@@ -1,0 +1,6 @@
+.vscode
+
+# Ignora arquivos de saída ou intermediários
+*.out
+*.o
+*.exe
